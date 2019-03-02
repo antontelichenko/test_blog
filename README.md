@@ -1,3 +1,7 @@
+!!!!!!!!!!!
+if you want to use this test, you need to put it in cmd "npm i" and then use "npm start". 
+!!!!!!!!!!!
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
